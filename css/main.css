@@ -354,6 +354,7 @@ textarea {
     justify-content: center;
     align-items: center;
     flex-flow: row wrap;
+    width:100%;
   }
 
   .contact-section h3 {
@@ -551,6 +552,11 @@ textarea {
      border: none;
    }
 
+   .contact-section {
+     width:30%;
+     height:12.5em;
+   }
+   
 /*****Main Page*****/
   .content-wrapper h1 {
       width: 80%;
